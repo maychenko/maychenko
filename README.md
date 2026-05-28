@@ -70,16 +70,6 @@ $ status
 
 ---
 
-<!-- Connect section -->
-```bash
-$ connect --with mark
-> Mail:      marcusmay0202@gmail.com & mark.a.maichenko@gmail.com
-> LinkedIn:  linkedin.com/in/mark-maichenko
-> GitHub:    github.com/Morkva22
-> Location:  Munich, Germany 🇩🇪
-```
-
----
 
 
                                                                                                                                     
