@@ -14,14 +14,16 @@ $ location
 > Munich, Bavaria, Germany 🇩🇪
 
 $ currently_learning
-> Django · ASP.NET · React Native
+> Python · Django · JavaScript
 
 $ looking_for
-> Ausbildung (Fachinformatiker Anwendungsentwicklung)
-> Internship in Software Development
+> Ausbildung 
+> Internship
+> Full-time job
+> Part-time job
 
 $ status
-> Open to work ✅
+> Lerning & Open to work
 ```
 
 ---
