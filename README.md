@@ -61,15 +61,6 @@ $ status
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Morkva22&theme=chartreuse-dark&hide_border=true&background=0d1117&stroke=00FF41&ring=00FF41&fire=00FF41&currStreakLabel=00FF41" />
 </div>
 
----
-
-## 🏆 Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Morkva22&theme=matrix&no-frame=true&no-bg=true&margin-w=4" />
-</div>
-
----
 
 ## 🐍 Contribution Snake
 
@@ -82,6 +73,7 @@ $ status
 <!-- Connect section -->
 ```bash
 $ connect --with mark
+> Mail:      marcusmay0202@gmail.com & mark.a.maichenko@gmail.com
 > LinkedIn:  linkedin.com/in/mark-maichenko
 > GitHub:    github.com/Morkva22
 > Location:  Munich, Germany 🇩🇪
@@ -89,9 +81,6 @@ $ connect --with mark
 
 ---
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Morkva22&color=00FF41&style=flat-square&label=Profile+Views" />
-</div>
 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
