@@ -65,7 +65,7 @@ $ status
 ## 🐍 Contribution Snake
 
 <div align="center">
-  <<img width="1429" height="487" alt="ascii-art-text" src="https://github.com/user-attachments/assets/83da8686-15a4-4c13-a43a-f65cc1625daf"/>
+  <img src="https://raw.githubusercontent.com/Morkva22/Morkva22/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </div>
 
 ---
@@ -82,11 +82,10 @@ $ connect --with mark
 ---
 
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Morkva22/Morkva22/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</div>
                                                                                                                                     
-                                                                                                                                              
+<div align="center">
+  <<img width="1429" height="487" alt="ascii-art-text" src="https://github.com/user-attachments/assets/83da8686-15a4-4c13-a43a-f65cc1625daf"/>
+</div>                                                                                                                                              
 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
