@@ -84,7 +84,7 @@ $ connect --with mark
 
                                                                                                                                     
 <div align="center">
-  <<img width="1429" height="487" alt="ascii-art-text" src="https://github.com/user-attachments/assets/83da8686-15a4-4c13-a43a-f65cc1625daf"/>
+  <img width="1429" height="487" alt="ascii-art-text" src="https://github.com/user-attachments/assets/83da8686-15a4-4c13-a43a-f65cc1625daf"/>
 </div>                                                                                                                                              
 
 <div align="center">
