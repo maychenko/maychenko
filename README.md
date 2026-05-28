@@ -85,6 +85,7 @@ $ status
 
 ---
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00FF41&height=60&section=footer"/>
 
                                                                                                                                     
 <div align="center">
