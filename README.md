@@ -28,10 +28,6 @@ $ status
 </div>
 
 ---
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Morkva22&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00FF41&icon_color=00FF41&text_color=ffffff" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Morkva22&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00FF41&text_color=ffffff" height="165" />
-</div>
 
 **Tech Stack**
 
