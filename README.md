@@ -10,9 +10,11 @@
 $ whoami
 > Mark Maichenko — Versatile Software Developer (Generalist)
 
+$ location
+> Munich, Germany 🇩🇪
+
 $ profile
 > 5 years of tech education & hands-on building. 
-> Adaptable to any tech stack, from low-level to frontend & design.
 
 $ looking_for
 > Internship
