@@ -75,6 +75,7 @@ $ status
 ![Construct 3](https://img.shields.io/badge/Construct_3-00FFDA?style=for-the-badge&logo=construct3&logoColor=black)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 ![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
+![Tinkercad](https://img.shields.io/badge/Tinkercad-1477D4?style=for-the-badge&logo=tinkercad&logoColor=white)
 
 ---
 
