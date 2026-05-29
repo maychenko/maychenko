@@ -8,22 +8,18 @@
 <!-- Terminal style intro -->
 ```bash
 $ whoami
-> Mark Maichenko — Aspiring Developer
+> Mark Maichenko — Versatile Software Developer (Generalist)
 
-$ location
-> Munich, Bavaria, Germany 🇩🇪
-
-$ currently_learning
-> Python · Django · JavaScript
+$ profile
+> 5 years of tech education & hands-on building. 
+> Adaptable to any tech stack, from low-level to frontend & design.
 
 $ looking_for
-> Ausbildung 
-> Internship
-> Full-time job
-> Part-time job
+> Ausbildung (Fachinformatiker Anwendungsentwicklung)
+> Internship / Junior Roles
 
 $ status
-> Learning & Open to work
+> Ready to bring 5 years of solid foundation to your team.
 ```
 
 ---
