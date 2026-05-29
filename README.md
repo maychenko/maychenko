@@ -5,23 +5,24 @@
 
 ---
 
-```makefile
-$ whoami:
-> Mark Maichenko — Versatile Software Developer (Generalist)
+```ruby
+$ whoami
+> "Mark Maichenko — Versatile Software Developer (Generalist)"
 
-$ location:
-> Munich, Germany DE
+$ location
+> "Munich, Germany DE"
 
-$ profile:
-> 5 years of tech education & hands-on building.
+$ profile
+> "5 years of tech education & hands-on building."
 
-$ looking_for:
-> Internship
-> Ausbildung (Fachinformatiker AE)
-> Part/Full-time Job
+$ looking_for
+> "Internship"
+> "Ausbildung (Fachinformatiker AE)"
+> "Part/Full-time Job"
 
-$ status:
-> Ready to bring 5 years of solid foundation to your team.
+$ status
+> "Ready to bring 5 years of solid foundation to your team."
+
 ```
 
 <div align="center">
