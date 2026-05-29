@@ -23,7 +23,7 @@ $ looking_for
 > Part-time job
 
 $ status
-> Lerning & Open to work
+> Learning & Open to work
 ```
 
 ---
