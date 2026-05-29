@@ -89,7 +89,7 @@ $ status
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Morkva22&theme=chartreuse-dark&hide_border=true&background=0d1117&stroke=00FF41&ring=00FF41&fire=00FF41&currStreakLabel=00FF41" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=maychenko&theme=chartreuse-dark&hide_border=true&background=0d1117&stroke=00FF41&ring=00FF41&fire=00FF41&currStreakLabel=00FF41" />
 </div>
 
 ---
