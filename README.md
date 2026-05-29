@@ -85,11 +85,6 @@ $ status
 ![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
 ![Tinkercad](https://img.shields.io/badge/Tinkercad-1477D4?style=for-the-badge&logo=tinkercad&logoColor=white)
 
----
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Morkva22/Morkva22/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</div>
 
 ---
                                                                                                                                     
