@@ -28,6 +28,10 @@ $ status
 </div>
 
 ---
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Morkva22&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00FF41&icon_color=00FF41&text_color=ffffff" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Morkva22&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00FF41&text_color=ffffff" height="165" />
+</div>
 
 **Tech Stack**
 
@@ -87,7 +91,6 @@ $ status
 
 ---
 
----
                                                                                                                                     
 <div align="center">
   <img width="1429" height="487" alt="ascii-art-text" src="https://github.com/user-attachments/assets/83da8686-15a4-4c13-a43a-f65cc1625daf"/>
