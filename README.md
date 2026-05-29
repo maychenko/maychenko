@@ -5,23 +5,23 @@
 
 ---
 
-```ansi
-[1;32m$ whoami[0m
-[1;33m>[0m [1;36mMark Maichenko[0m — Versatile Software Developer (Generalist)
+```ini
+$ whoami
+> Mark Maichenko — Versatile Software Developer (Generalist)
 
-[1;32m$ location[0m
-[1;33m>[0m Munich, Germany 🇩🇪
+$ location
+> Munich, Germany 🇩🇪
 
-[1;32m$ profile[0m
-[1;33m>[0m 5 years of tech education & hands-on building. 
+$ profile
+> 5 years of tech education & hands-on building. 
 
-[1;32m$ looking_for[0m
-[1;33m>[0m [1;34mInternship[0m
-[1;33m>[0m [1;34mAusbildung (Fachinformatiker AE)[0m
-[1;33m>[0m [1;34mPart/Full-time Job[0m
+$ looking_for
+> Internship
+> Ausbildung (Fachinformatiker AE)
+> Part/Full-time Job
 
-[1;32m$ status[0m
-[1;33m>[0m Ready to bring 5 years of solid foundation to your team.
+$ status
+> Ready to bring 5 years of solid foundation to your team.
 
 ```
 
