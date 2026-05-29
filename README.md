@@ -5,15 +5,15 @@
 
 ---
 
-```ini
+```shell
 $ whoami
 > Mark Maichenko — Versatile Software Developer (Generalist)
 
 $ location
-> Munich, Germany 🇩🇪
+> Munich, Germany DE
 
 $ profile
-> 5 years of tech education & hands-on building. 
+> 5 years of tech education & hands-on building.
 
 $ looking_for
 > Internship
