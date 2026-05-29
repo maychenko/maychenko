@@ -5,24 +5,23 @@
 
 ---
 
-<pre>
-$ <span style="color: #98c379; font-weight: bold;">whoami</span>
-<span style="color: #e5c07b;">&gt;</span> <span style="color: #61afef; font-weight: bold;">Mark Maichenko</span> — Versatile Software Developer (Generalist)
+```makefile
+$ whoami:
+> Mark Maichenko — Versatile Software Developer (Generalist)
 
-$ <span style="color: #98c379; font-weight: bold;">location</span>
-<span style="color: #e5c07b;">&gt;</span> Munich, Germany DE
+$ location:
+> Munich, Germany DE
 
-$ <span style="color: #98c379; font-weight: bold;">profile</span>
-<span style="color: #e5c07b;">&gt;</span> 5 years of tech education &amp; hands-on building.
+$ profile:
+> 5 years of tech education & hands-on building.
 
-$ <span style="color: #98c379; font-weight: bold;">looking_for</span>
-<span style="color: #e5c07b;">&gt;</span> <span style="color: #61afef;">Internship</span>
-<span style="color: #e5c07b;">&gt;</span> <span style="color: #61afef;">Ausbildung (Fachinformatiker AE)</span>
-<span style="color: #e5c07b;">&gt;</span> <span style="color: #61afef;">Part/Full-time Job</span>
+$ looking_for:
+> Internship
+> Ausbildung (Fachinformatiker AE)
+> Part/Full-time Job
 
-$ <span style="color: #98c379; font-weight: bold;">status</span>
-<span style="color: #e5c07b;">&gt;</span> Ready to bring 5 years of solid foundation to your team.
-</pre>
+$ status:
+> Ready to bring 5 years of solid foundation to your team.
 
 ```
 
